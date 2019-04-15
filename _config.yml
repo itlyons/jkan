@@ -1,5 +1,5 @@
 title: JKAN
-greeting: Welcome to JKAN
+greeting: Welcome to JKAN Yall
 description: A lightweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan
 logo: /img/jkan.png
@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: f324442595e4f4ab40e0
+gatekeeper_host: lyonskoch-open-data
 
 # Dataset schema
 schema: default
