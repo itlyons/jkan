@@ -2,8 +2,6 @@
   width: 64px;
 }
 
-.body{background-color: "orange";}
-
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
@@ -56,6 +54,10 @@ dataset {
 
 [data-component~=view-switcher] [data-hook~=view] {
   display: none;
+}
+
+body{
+  background-color: orange;
 }
 
 .homepage-categories,
