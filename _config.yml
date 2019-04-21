@@ -12,7 +12,7 @@ github_client_id: f324442595e4f4ab40e0
 gatekeeper_host: lyonskoch-open-data
 
 # Dataset schema
-schema: default
+schema: Cyborg
 
 # Nav bar
 navigation:
