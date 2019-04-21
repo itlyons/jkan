@@ -11,7 +11,7 @@ resources:
     url: 'https://data.lacity.org/api/views/yv23-pmwf/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
     format: excel
   - name: Building Permits GeoJSON
-    url: 'https://data.lacity.org/resource/75vw-v4fk.geojson
+    url: 'https://data.lacity.org/resource/75vw-v4fk.geojson'
     format: geojson
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
