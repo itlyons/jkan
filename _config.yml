@@ -5,7 +5,7 @@ baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Cyborg
+jkan_theme: Cosmo
 
 # Authentication
 github_client_id: f324442595e4f4ab40e0
