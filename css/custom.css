@@ -1,3 +1,18 @@
+
+.homepage-categories .thumbnail {
+  display: inline-block;
+  min-width: 120px;
+  text-align: center;
+  border: none;
+  padding: 10px;
+  transition: background-color .5s;
+}
+
+.homepage-categories .thumbnail img {
+  height: 80px;
+}
+
+
 .thumbnail:hover {
-    background-color: gold  
+    background-color: gold
 }
