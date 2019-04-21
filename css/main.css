@@ -56,10 +56,6 @@ dataset {
   display: none;
 }
 
-body{
-  background-color: orange;
-}
-
 .homepage-categories,
 .theme-gallery {
   text-align: justify;
