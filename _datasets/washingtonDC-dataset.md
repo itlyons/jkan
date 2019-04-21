@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Washington, DC building permits dataset
+title: Washington, DC Building Permits
 organization: DC open data
-notes: This dataset contains locations and attributes of building construction and alteration permits applied for and approved by the District of Columbia Department of Consumer and Regulatory Affairs.  Includes x- and y-coordinates.
+notes: Datasets contain locations and attributes of building construction and alteration permits applied for and approved by the District of Columbia Department of Consumer and Regulatory Affairs; 2015 to 2018.  Includes x- and y-coordinates.
 
 resources:
   - name: 2018 Building Permits
