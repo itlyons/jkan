@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.Rhistory
 _config.dev.yml
 node_modules
 *.map
