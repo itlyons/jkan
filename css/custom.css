@@ -28,3 +28,8 @@ dataset {
   background-color: #636C70;
 }
 
+.col-sm-4 {
+    color: white;
+    background-color: #636C70;
+    opacity: 0.88;
+}
