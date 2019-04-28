@@ -1,6 +1,6 @@
 title: JKAN
-greeting: Welcome to JKAN Yall
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Welcome to the Municipal Permitting Data Portal
+description: Find datasets related to building permits.
 baseurl: /jkan
 logo: /img/jkan.png
 
