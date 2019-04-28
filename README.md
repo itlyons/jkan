@@ -1,5 +1,5 @@
 
-[Municipal Permitting Data Portal](https://itlyons.github.io/jkan/)
+# [Municipal Permitting Data Portal](https://itlyons.github.io/jkan/)
 
 Andrea Koch and Ian Lyons
 
