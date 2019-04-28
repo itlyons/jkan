@@ -6,6 +6,7 @@
   border: none;
   padding: 10px;
   transition: background-color .5s;
+  border-radius: 15px 15px 15px 15px; 
 }
 
 .homepage-categories .thumbnail img {
