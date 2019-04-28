@@ -16,5 +16,5 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Transportation
-maintainer: Andrea Koch & Ian Lyons
+maintainer: Mobility Talks
 ---

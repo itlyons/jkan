@@ -16,5 +16,5 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Planning / Zoning
-maintainer: Andrea Koch & Ian Lyons
+maintainer: Brandon Crowley/City of Cincinnati
 ---
