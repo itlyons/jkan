@@ -15,3 +15,8 @@
 .thumbnail:hover {
     background-color: gold
 }
+
+body {
+ background-image: url("../img/background/DC_skyline.jpg");
+ background-color: #cccccc;
+}
