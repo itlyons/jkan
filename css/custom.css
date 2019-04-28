@@ -43,3 +43,8 @@ dataset {
 .jumbotron{
   background-color: transparent;
 }
+
+a {
+    color: #ffc107;
+    text-decoration: none;
+}
