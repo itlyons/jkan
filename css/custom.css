@@ -46,8 +46,9 @@ dataset {
 .row{
   background-color: #636C70;
   border-bottom:10px solid #636C70;
-  opacity: 0.8;
+  opacity: 0.88;
   color: white;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .jumbotron {
