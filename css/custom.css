@@ -6,7 +6,7 @@
   border: none;
   padding: 10px;
   transition: background-color .5s;
-  border-radius: 15px 15px 15px 15px;
+  border-radius: 15px 15px 15px 15px; 
 }
 
 .homepage-categories .thumbnail img {
@@ -42,14 +42,33 @@ dataset {
     opacity: 0.88;
 }
 
-.jumbotron{
+.jumbotron {
+  font-weight: bold;
   background-color: transparent;
+}
+
+.jumbotron p {
+  font-weight: bold;
+}
+
+a {
+    color: #ffc107;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+jumbotron .h1 {
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+    font-weight: bold;
+    line-height: 1.1;
+    color: inherit;
 }
 
 .btn-lg{
   border-radius: 15px 15px 15px 15px;
 }
-a {
-    color: #ffc107;
-    text-decoration: none;
-}
+
