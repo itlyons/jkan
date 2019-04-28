@@ -1,7 +1,7 @@
 ---
 schema: default
 title: New York, NY Building Permits
-organization: NYC open data
+organization: NYC
 notes: Dataset contains records of permits issued by the City of New York for construction and demolition.  Dataset created in April, 2013.  Contains latitude and longitude.
 resources:
   - name: Building Permits
