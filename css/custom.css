@@ -18,12 +18,13 @@
 
 body {
  background-image: url("../img/background/DC_skyline.jpg");
- background-color: #cccccc;
+ background-color: #636C70;
 }
 
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
   padding-bottom: 20px;
-  background-color: #2f383c;
+  background-color: #636C70;
 }
+
