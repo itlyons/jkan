@@ -39,3 +39,7 @@ dataset {
     background-color: #636C70;
     opacity: 0.88;
 }
+
+.jumbotron{
+  background-color: transparent;
+}
