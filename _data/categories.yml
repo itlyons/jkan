@@ -1,6 +1,3 @@
-- name: Arts / Culture / History
-  logo: /img/categories/arts-culture-history.svg
-  featured: true
 - name: Budget / Finance
   logo: /img/categories/budget-finance.svg
   logo_credit: Renan Ferreira Santos from the Noun Project
@@ -9,10 +6,6 @@
   logo: /img/categories/economy.svg
   logo_credit: Vectors Market from the Noun Project
   featured: true
-- name: Education
-  logo: /img/categories/education.svg
-  logo_credit: Sergey Patutin from the Noun Project
-  featured: true
 - name: Elections / Politics
   logo: /img/categories/elections-politics.svg
   logo_credit: Jean Soo from the Noun Project
@@ -20,24 +13,8 @@
 - name: Environment
   logo: /img/categories/environment.svg
   featured: true
-- name: Food
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
-  featured: true
-- name: Health / Human Services
-  logo: /img/categories/health-human-services.svg
-  logo_credit: Timothy Miller from the Noun Project
-  featured: true
-- name: Parks / Recreation
-  logo: /img/categories/parks-recreation.svg
-  logo_credit: Pipe Rosas Licht from the Noun Project
-  featured: true
 - name: Planning / Zoning
   logo: /img/categories/planning-zoning.svg
-  featured: true
-- name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
   featured: true
 - name: Real Estate / Land Records
   logo: /img/categories/real-estate-land-records.svg
