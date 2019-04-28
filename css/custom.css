@@ -6,7 +6,7 @@
   border: none;
   padding: 10px;
   transition: background-color .5s;
-  border-radius: 15px 15px 15px 15px; 
+  border-radius: 15px 15px 15px 15px;
 }
 
 .homepage-categories .thumbnail img {
@@ -46,6 +46,9 @@ dataset {
   background-color: transparent;
 }
 
+.btn-lg{
+  border-radius: 15px 15px 15px 15px;
+}
 a {
     color: #ffc107;
     text-decoration: none;
