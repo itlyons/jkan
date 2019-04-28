@@ -3,7 +3,7 @@ schema: default
 title: Austin, TX Building Permits
 organization: City of Austin
 notes: Building, Electrical, Mechanical, and Plumbing Permits and Driveway/Sidewalk Permits issued by the City of Austin from Jan 2014 - Jun 2016. Includes relevant details such as issue date, location, council district, expiration date, description of work, square footage, valuation, and units.
-resources:
+This dataset is compliant with the Building & Land Development Specification (BLDS) data standard.
   - name: Building Permits
     url: 'https://data.austintexas.gov/api/views/u8mm-jazv/rows.csv?accessType=DOWNLOAD'
     format: csv
@@ -16,6 +16,5 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Planning / Zoning
-maintainer: Andrea Koch & Ian Lyons
-
+maintainer: Development Services Department
 ---
