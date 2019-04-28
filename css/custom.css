@@ -28,19 +28,26 @@ dataset {
   border-bottom: 1px #d6d6d6 solid;
   padding-bottom: 20px;
   background-color: #636C70;
+  color: white;
 }
 
-.col-sm-4 {
-    color: white;
+/* .col-sm-4 {
+    color: red;
     background-color: #636C70;
     opacity: 0.88;
-}
+} */
 
-.col-sm-8 {
-    color: white;
+/* .col-sm-8 {
+    color: red;
     background-color: #636C70;
     opacity: 0.88;
-    border: 0.1;
+} */
+
+.row{
+  background-color: #636C70;
+  border-bottom:10px solid #636C70;
+  opacity: 0.8;
+  color: white;
 }
 
 .jumbotron {

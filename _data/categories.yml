@@ -1,19 +1,5 @@
-- name: Budget / Finance
-  logo: /img/categories/budget-finance.svg
-  logo_credit: Renan Ferreira Santos from the Noun Project
-  featured: true
-- name: Economy
-  logo: /img/categories/economy.svg
-  logo_credit: Vectors Market from the Noun Project
-  featured: true
-- name: Environment
-  logo: /img/categories/environment.svg
-  featured: true
 - name: Planning / Zoning
   logo: /img/categories/planning-zoning.svg
-  featured: true
-- name: Real Estate / Land Records
-  logo: /img/categories/real-estate-land-records.svg
   featured: true
 - name: Transportation
   logo: /img/categories/transportation.svg
