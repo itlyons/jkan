@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Cincinnati, OH Building Permits
-organization: City of Cincinnati Construction and Inspections
+title: Cincinnati, OH - Building Permits
+organization: City of Cincinnati
 notes: Cincinnati Building Permits that have been applied for since January 1, 2010.
 resources:
   - name: Building Permits CSV
@@ -16,5 +16,5 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Planning / Zoning
-maintainer: Brandon Crowley/City of Cincinnati
+maintainer: Brandon Crowley/City of Cincinnati Construction and Inspections
 ---

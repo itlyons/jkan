@@ -1,6 +1,6 @@
 ---
 schema: default
-title: New York, NY Subway Entrances
+title: New York, NY - Subway Entrances
 organization: New York City
 notes: Map of NYC Subway Entrances
 resources:

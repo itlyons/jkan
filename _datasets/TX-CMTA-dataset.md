@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Texas Capital Metro Automatic Passenger Counter
+title: Texas - Capital Metro Automatic Passenger Counter
 organization: Texas
 notes: This Capital Metro Automatic Passenger Counter (APC) Ridership data set is unprocessed, pure, raw, flaws and all straight from our Automatic Vehicle Location (AVL) system. Capital Metro, in partnership with a third-party vendor, applies a process that reviews the data to determine the validity and flags various elements to ensure final reported data has any bad elements excluded. Utilizing this data without applying your own methods to remove errors WILL NOT produce results corresponding to the published Ridership Reports.
 resources:

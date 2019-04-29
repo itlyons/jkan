@@ -1,6 +1,6 @@
 ---
 schema: default
-title: New York, NY Building Permits
+title: New York, NY - Building Permits
 organization: New York City
 notes: The Department of Buildings (DOB) issues permits for construction and demolition activities in the City of New York. Dataset created in April, 2013.  Contains latitude and longitude.
 resources:

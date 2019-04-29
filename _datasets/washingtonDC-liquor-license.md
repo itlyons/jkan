@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Washington, DC Liquor Licenses
+title: Washington, DC - Liquor Licenses
 organization: District of Columbia
 notes: Liquor Licensee locations. The dataset contains locations and attributes of Liquor Licensees, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Alcoholic Beverage Regulation Administration (ABRA) identified liquor licensees locations and DC GIS staff geo-processed the data. For further information visit https://abra.dc.gov/. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.
 
