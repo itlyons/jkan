@@ -55,7 +55,7 @@ dataset {
   border-radius: 10px 10px 10px 10px;
   font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
   font-weight: bold;
-  line-height: 1.1;
+  line-height: 1.5;
 }
 
 .row h3{
@@ -82,11 +82,10 @@ div.col-sm-12{
   color: white;
   font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
   font-weight: bold;
-  line-height: 1.1;
+  line-height: 2;
 }
-/* div.col-sm-12>h1>span, div.col-sm-12>h2, div.col-sm-12>p {
-  color: white;
-} */
+
+
 div.col-sm-12>ul>li>a>span{
   color: gold;
 }
