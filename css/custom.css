@@ -17,10 +17,26 @@
     background-color: gold
 }
 
+.jumbotron {
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.jumbotron p {
+  font-weight: bold;
+}
+
+jumbotron .h1 {
+  font-weight: bold;
+}
+
 body {
  background-image: url("../img/background/DC_skyline.jpg");
  background-color: #636C70;
  color: white;
+ font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+ font-weight: bold;
+ line-height: 1.1;
 }
 
 dataset {
@@ -31,44 +47,64 @@ dataset {
   color: white;
 }
 
-/* .col-sm-4 {
-    color: red;
-    background-color: #636C70;
-    opacity: 0.88;
-} */
-
-/* .col-sm-8 {
-    color: red;
-    background-color: #636C70;
-    opacity: 0.88;
-} */
-
-.row{
+.row {
   background-color: #636C70;
   border-bottom:10px solid #636C70;
   opacity: 0.88;
-  color: white;
+  /* color: white; */
   border-radius: 10px 10px 10px 10px;
-}
-
-.jumbotron {
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
   font-weight: bold;
-  background-color: transparent;
+  line-height: 1.1;
 }
 
-.jumbotron p {
+.row h3{
+  color: white;
+
+}
+
+span.list-group-item-truncate{
+  color: purple;
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
   font-weight: bold;
+  line-height: 1.1;
 }
 
-a {
-    color: #ffc107;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-jumbotron .h1 {
+h3>a{
+  color: #ffc107;
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
   font-weight: bold;
+  line-height: 1.1;
 }
+
+div.col-sm-12{
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+  font-weight: bold;
+  line-height: 1.1;
+}
+/* div.col-sm-12>h1>span, div.col-sm-12>h2, div.col-sm-12>p {
+  color: white;
+} */
+div.col-sm-12>ul>li>a>span{
+  color: gold;
+}
+
+table>tbody>:nth-child(odd)>th, table>tbody>:nth-child(odd)>td, table>tbody>:nth-child(odd)>td>a {
+  color: purple;
+}
+
+table>tbody>:nth-child(even)>th, table>tbody>:nth-child(even)>td, table>tbody>:nth-child(even)>td>a {
+  color: gold;
+}
+
+
+div.col-sm-12>ul>li>a>span:hover, table>tbody>:nth-child(odd)>td>a:hover, table>tbody>:nth-child(even)>td>a:hover {
+  color: blue;
+}
+
+
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
@@ -81,8 +117,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   border-radius: 15px 15px 15px 15px;
 }
 
-.col-sm-12 {
+/* .col-sm-12 {
     color: white;
     background-color: #636C70;
     opacity: 0.88;
-}
+} */
