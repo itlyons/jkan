@@ -2,7 +2,7 @@
 schema: default
 title: Washington, DC Alcoholic Beverage Regulation Administration Moratorium Zones
 organization: District of Columbia
-notes: 
+notes: An ABC moratorium zone is a defined area in DC where the Alcoholic Beverage Control Board (Board) has (1) Limited the number of alcoholic beverage licenses issued; (2) Declared a moratorium on the issuance of alcoholic beverage licenses of any class; (3) Declared a moratorium on the issuance of amended licenses that constitute a substantial change; and/or (4) Declared a moratorium to limit the sale of products that may be sold by off-premises retailer’s licenses class A and B. Any group with standing may make a request to the Board to issue limitations or to declare a moratorium, pursuant to the District of Columbia Official Code Title 25 Section 351, as found in the ABC Laws and Regulations. Any moratorium issued by the Board will not apply to existing licenses.
 
 resources:
   - name: Moratorium Zones
