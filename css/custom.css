@@ -52,7 +52,7 @@ body {
  font-weight: bold;
  line-height: 1.1;
 }
-/* CITATION:  https://stackoverflow.com/questions/40501063/css-change-opacity-of-background-image-within-the-body-element-selector */
+/* CITATION for white opaque layer over background:  https://stackoverflow.com/questions/40501063/css-change-opacity-of-background-image-within-the-body-element-selector */
 
 dataset {
   display: block;
