@@ -1,9 +1,9 @@
 
-# [Municipal Permitting Data Portal](https://itlyons.github.io/jkan/)
+# [Business Open Data Portal](https://itlyons.github.io/jkan/)
 
 Andrea Koch and Ian Lyons
 
-Project for CAPP 30310
+Student project for CAPP 30310
 
 
 
