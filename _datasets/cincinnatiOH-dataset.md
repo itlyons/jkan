@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Cincinnati, OH - Building Permits
-organization: City of Cincinnati
+organization: City of Cincinnati, OH
 notes: Cincinnati Building Permits that have been applied for since January 1, 2010.
 resources:
   - name: Building Permits CSV

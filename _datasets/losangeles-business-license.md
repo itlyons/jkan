@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Los Angeles, CA - Listing of Active Businesses
-organization: City of Los Angeles
+organization: City of Los Angeles, CA
 notes: Listing of all active businesses currently registered with the Office of Finance. An "active" business is defined as a registered business whose owner has not notified the Office of Finance of a cease of business operations. Updated monthly.
 
 

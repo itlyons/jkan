@@ -1,7 +1,7 @@
 ---
 schema: default
 title: New York, NY - Sidewalk Café Licenses and Applications
-organization: New York City
+organization: City of New York, NY
 notes: This dataset features detailed information about sidewalk café license applications and, if applicable, issued licenses.
 
 

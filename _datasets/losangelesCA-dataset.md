@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Los Angeles, CA - Building Permits
-organization: City of Los Angeles
+organization: City of Los Angeles, CA
 notes: This dataset contains permits for construction, remodeling, and repair of buildings and structures in the City of Los Angeles dating back to 2013. Includes latitude and longitude.
 resources:
   - name: Building Permits CSV

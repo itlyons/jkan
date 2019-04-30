@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Seattle, WA - 2016 Active Businesses License Data
-organization: City of Seattle
+organization: City of Seattle, WA
 notes: City of Seattle Business License data current as of January 9, 2017
 
 

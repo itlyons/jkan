@@ -1,7 +1,7 @@
 ---
 schema: default
 title: New York, NY - Legally Operating Businesses
-organization: New York City
+organization: City of New York, NY
 notes: This data set features businesses/individuals holding a DCA license so that they may legally operate in New York City. Sightseeing guides and temporary street fair vendors are not included in this data set.
 
 resources:

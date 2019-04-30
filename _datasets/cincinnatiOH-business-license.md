@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Cincinnati, OH - Business Licenses
-organization: City of Cincinnati
+organization: City of Cincinnati, OH
 notes: Business Licenses are processed by Treasury division in the Department of Finance. This dataset includes licenses pertaining to Amusement Games, Antique Dealer, Appliance Dealer, Ball Grounds, Billiards and Pool, Cabaret, Carousels, Chauffeur, Circus, Dance Hall, Junk, Second Hand, Scrap, Massage Services, Motor Vehicle Salvage, Skating Rink, Theater, etc.
 
 

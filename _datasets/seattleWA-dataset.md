@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Seattle, WA - Building Permits
-organization: City of Seattle
+organization: City of Seattle, WA
 notes: All building permits issued or in progress within the city of Seattle.
 resources:
   - name: Building Permits CSV
