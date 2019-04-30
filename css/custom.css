@@ -1,4 +1,6 @@
 
+/* HOMEPAGE */
+
 .homepage-categories .thumbnail {
   display: inline-block;
   min-width: 120px;
@@ -24,10 +26,15 @@
 
 .jumbotron p {
   font-weight: bold;
+  color: Purple;
 }
 
-jumbotron .h1 {
+.jumbotron h1 {
   font-weight: bold;
+}
+
+.container h3{
+  color: gold;
 }
 
 /* body {
@@ -52,15 +59,13 @@ body {
  font-weight: bold;
  line-height: 1.1;
 }
-/* CITATION for white opaque layer over background:  https://stackoverflow.com/questions/40501063/css-change-opacity-of-background-image-within-the-body-element-selector */
+    /* CITATION for white opaque layer over background:  https://stackoverflow.com/questions/40501063/css-change-opacity-of-background-image-within-the-body-element-selector */
 
-dataset {
-  display: block;
-  border-bottom: 1px #d6d6d6 solid;
-  padding-bottom: 20px;
-  background-color: #636C70;
-  color: white;
-}
+
+
+
+
+/* DATASETS PAGE */
 
 .row {
   background-color: #636C70;
@@ -75,24 +80,18 @@ dataset {
 
 .row h3{
   color: white;
-
 }
 
-span.list-group-item-truncate{
-  color: purple;
-  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
-  font-weight: bold;
-  line-height: 1.1;
+dataset {
+  display: block;
+  border-bottom: 1px #d6d6d6 solid;
+  padding-bottom: 20px;
+  background-color: #636C70;
+  color: white;
 }
 
-h3>a{
-  color: #ffc107;
-  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
-  font-weight: bold;
-  line-height: 1.1;
-}
 
-div.col-sm-12{
+}.col-sm-12{
   border-radius: 10px 10px 10px 10px;
   color: white;
   font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
@@ -100,8 +99,34 @@ div.col-sm-12{
   line-height: 2;
 }
 
+.col-sm-4 a{
+  color: purple;
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+  font-weight: bold;
+  line-height: 1.1;
+}
 
-div.col-sm-12>ul>li>a>span{
+.col-sm-8 a {
+  color: #ffc107;
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+
+
+
+/* SPECIFIC DATASET PAGE */
+
+.col-sm-12{
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.col-sm-12>ul>li>a>span{
   color: gold;
 }
 
@@ -113,10 +138,13 @@ table>tbody>:nth-child(even)>th, table>tbody>:nth-child(even)>td, table>tbody>:n
   color: gold;
 }
 
-
-div.col-sm-12>ul>li>a>span:hover, table>tbody>:nth-child(odd)>td>a:hover, table>tbody>:nth-child(even)>td>a:hover {
+.col-sm-12>ul>li>a>span:hover, table>tbody>:nth-child(odd)>td>a:hover, table>tbody>:nth-child(even)>td>a:hover {
   color: blue;
 }
+
+
+
+
 
 
 
