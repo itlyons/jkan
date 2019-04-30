@@ -26,7 +26,7 @@
 
 .jumbotron p {
   font-weight: bold;
-  color: Purple;
+  color: gold;
 }
 
 .jumbotron h1 {
@@ -34,7 +34,7 @@
 }
 
 .container h3{
-  color: gold;
+  color: white;
 }
 
 /* body {
