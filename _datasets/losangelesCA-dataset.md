@@ -13,7 +13,7 @@ resources:
   - name: Building Permits
     url: 'https://data.lacity.org/resource/75vw-v4fk.geojson'
     format: geojson
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Planning / Zoning
 maintainer: Building and Safety

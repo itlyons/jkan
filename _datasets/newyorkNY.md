@@ -10,7 +10,7 @@ resources:
   - name: Building Permits
     url: 'https://data.cityofnewyork.us/api/views/ipu4-2q9a/rows.xml?accessType=DOWNLOAD'
     format: XML
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Planning / Zoning
 maintainer: Department of Buildings

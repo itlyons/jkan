@@ -13,7 +13,7 @@ resources:
   - name: Mobility Talks Meetings
     url: 'https://data.austintexas.gov/api/views/ctjd-xkrz/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
     format: Excel
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Transportation
 maintainer: Mobility Talks

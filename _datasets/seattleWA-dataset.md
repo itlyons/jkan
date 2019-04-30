@@ -13,7 +13,7 @@ resources:
   - name: Building Permits
     url: 'https://data.seattle.gov/resource/k44w-2dcq.geojson'
     format: geojson
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Planning / Zoning
 maintainer: Department of Construction and Inspections

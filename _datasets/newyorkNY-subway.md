@@ -10,7 +10,7 @@ resources:
   - name: Subway Entrances
     url: 'https://data.cityofnewyork.us/api/geospatial/drex-xx56?method=export&format=GeoJSON'
     format: GeoJSON
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Transportation
 maintainer: Metropolitan Transit Authority

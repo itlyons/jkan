@@ -13,7 +13,7 @@ resources:
   - name: Building Permits
     url: 'https://data.austintexas.gov/api/views/u8mm-jazv/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
     format: Excel
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Planning / Zoning
 maintainer: Development Services Department

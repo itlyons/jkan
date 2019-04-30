@@ -16,7 +16,7 @@ resources:
     url: 'https://data.lacity.org/api/views/6rrh-rzua/rows.xml?accessType=DOWNLOAD'
     format: XML
 
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Licensing / Regulations
 maintainer: Office of Finance

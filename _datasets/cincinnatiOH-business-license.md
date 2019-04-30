@@ -16,7 +16,7 @@ resources:
     url: 'https://data.cincinnati-oh.gov/api/views/7dk3-gngs/rows.xml?accessType=DOWNLOAD'
     format: XML
 
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Licensing / Regulations
 maintainer: Office of Finance

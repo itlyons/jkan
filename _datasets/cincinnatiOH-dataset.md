@@ -13,7 +13,7 @@ resources:
   - name: Building Permits
     url: 'https://data.cincinnati-oh.gov/resource/uhjb-xac9.json'
     format: json
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Planning / Zoning
 maintainer: Brandon Crowley/City of Cincinnati Construction and Inspections

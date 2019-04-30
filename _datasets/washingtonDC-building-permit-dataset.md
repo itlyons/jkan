@@ -44,7 +44,7 @@ resources:
     url: 'https://opendata.arcgis.com/datasets/981c105beef74af38cc4090992661264_25.zip'
     format: shp
 
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Planning / Zoning
 maintainer: DCGISOpenData

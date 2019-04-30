@@ -9,7 +9,7 @@ resources:
     url: 'https://opendata.arcgis.com/datasets/85bf98d3915f412c8a4de706f2d13513_0.csv'
     format: Spreadsheet
 
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Licensing / Regulations
 maintainer: DCGISOpenData

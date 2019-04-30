@@ -15,7 +15,7 @@ resources:
     url: 'https://opendata.arcgis.com/datasets/e20d1dc981174440b38ac768de4eb921_54.zip'
     format: shp
 
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Transportation
 maintainer: DCGISOpenData

@@ -15,7 +15,7 @@ resources:
     url: 'https://opendata.arcgis.com/datasets/cabe9dcef0b344518c7fae1a3def7de1_5.zip'
     format: shp
 
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Licensing / Regulations
 maintainer: DCGISOpenData / Business and Economic Development
